@@ -1,0 +1,6 @@
+{
+  "name": "AZCON Contabilidade | Assessoria Empresarial",
+  "description": "Site institucional e comercial ultra moderno de alta conversão para a AZCON Contabilidade com Bruna Almeida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
